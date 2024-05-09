@@ -1,0 +1,11 @@
+assets/*
+__pycache__/*
+*.pyc
+*.csv
+*.png
+*.jpg
+*.log
+*.jpeg
+*.html
+*.yar
+assets/*

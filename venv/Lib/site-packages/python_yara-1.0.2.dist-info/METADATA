@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: python-yara
+Version: 1.0.2
+Summary: This is not the correct yara-python module.  Use: https://pypi.org/project/yara-python/
+Author-email: Silas Cutler <silas@p1nk.io>
+Project-URL: Homepage, https://github.com/silascutler/python-yara
+Keywords: dangerous
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.1
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: black ; extra == 'dev'
+Requires-Dist: bumpver ; extra == 'dev'
+Requires-Dist: isort ; extra == 'dev'
+Requires-Dist: pip-tools ; extra == 'dev'
+
+# python-yara
+
+This is not the correct yara-python module.  Use: https://pypi.org/project/yara-python/
+
+
